@@ -15,7 +15,7 @@ This space contains all the material related to the [Computational Thinking and 
 
 ### Book and notes
 
-The official book of the course, <cite><a href="https://comp-think.github.io/">Computational Thinking and Programming book</a></cite>, is available online in PDF format. Google Docs links are provided for each chapter, to enable students to comment and suggest improvements. The suggested accompanying book for Python coding, <cite><a href="https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python">How To Code in Python</a> by Lisa Tagliaferri</cite>, is also freely available online in PDF and EPUB formats.
+The official book of the course, <cite><a href="https://comp-think.github.io/">Computational Thinking and Programming book</a></cite>, is available online in PDF format. Google Docs links are provided for each chapter to enable students to comment and suggest improvements. The suggested accompanying book for Python coding, <cite><a href="https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python">How To Code in Python</a> by Lisa Tagliaferri</cite>, is also freely available online in PDF and EPUB formats.
 
 ### Material
 
@@ -23,6 +23,7 @@ The official book of the course, <cite><a href="https://comp-think.github.io/">C
 
 - _the_ = theoretical lecture
 - _lab_ = laboratory session
+- _wor_ = workshop session
 
 1. [09/10/23, *the*] Introduction to the course
    <hr />
