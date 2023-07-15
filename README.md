@@ -131,20 +131,20 @@ The official book of the course, <cite><a href="https://comp-think.github.io/">C
   <tr><td>09/10/23</td><td>09:00-11:00</td><td>Introduction to the course</td></tr>
   <tr><td>11/10/23</td><td>09:00-11:00</td><td>Introduction to Computational Thinking</td></tr>
   <tr><td>13/10/23</td><td>12:00-14:00</td><td>Algorithms</td></tr>
-  <tr><td>16/10/23</td><td>09:00-11:00</td><td>1st Lesson</td></tr>
+  <tr><td>16/10/23</td><td>09:00-11:00</td><td>Laboratory: 1st Lesson</td></tr>
   <tr><td>18/10/23</td><td>09:00-11:00</td><td>Computability</td></tr>
   <tr><td>20/10/23</td><td>12:00-14:00</td><td>Programming languages</td></tr>
   <tr><td>23/10/23</td><td>09:00-11:00</td><td>Organising information: ordered structures</td></tr>
-  <tr><td>25/10/23</td><td>09:00-11:00</td><td>2nd Lesson</td></tr>
+  <tr><td>25/10/23</td><td>09:00-11:00</td><td>Laboratory: 2nd Lesson</td></tr>
   <tr><td>08/11/23</td><td>09:00-11:00</td><td>Brute-force algorithms</td></tr>
-  <tr><td>13/11/23</td><td>09:00-11:00</td><td>3rd Lesson</td></tr>
+  <tr><td>13/11/23</td><td>09:00-11:00</td><td>Laboratory: 3rd Lesson</td></tr>
   <tr><td>15/11/23</td><td>09:00-11:00</td><td>Organising information: unordered structures</td></tr>
-  <tr><td>20/11/23</td><td>09:00-11:00</td><td>4th Lesson</td></tr>
+  <tr><td>20/11/23</td><td>09:00-11:00</td><td>Laboratory: 4th Lesson</td></tr>
   <tr><td>22/11/23</td><td>09:00-11:00</td><td>Recursion</td></tr>
   <tr><td>27/11/23</td><td>09:00-11:00</td><td>Divide and conquer algorithms</td></tr>
-  <tr><td>29/11/23</td><td>09:00-11:00</td><td>5th Lesson</td></tr>
+  <tr><td>29/11/23</td><td>09:00-11:00</td><td>Laboratory: 5th Lesson</td></tr>
   <tr><td>04/12/23</td><td>09:00-11:00</td><td>Dynamic programming algorithms</td></tr>
-  <tr><td>06/12/23</td><td>09:00-11:00</td><td>6th Lesson</td></tr>
+  <tr><td>06/12/23</td><td>09:00-11:00</td><td>Laboratory: 6th Lesson</td></tr>
   <tr><td>11/12/23</td><td>09:00-11:00</td><td>Organising information: trees</td></tr>
   <tr><td>13/12/23</td><td>09:00-11:00</td><td>Backtracking algorithms</td></tr>
   <tr><td>18/12/23</td><td>09:00-11:00</td><td>Organising information: graphs</td></tr>
