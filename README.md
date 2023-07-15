@@ -121,6 +121,7 @@ The official book of the course, <cite><a href="https://comp-think.github.io/">C
     - Python: [line_wrap.py](https://comp-think.github.io/python/line_wrap.py)
     <hr />
 22. [20/12/23, *wor*] Workshop
+    <hr />
 
 ### Schedule
 
