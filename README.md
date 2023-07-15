@@ -119,6 +119,8 @@ The official book of the course, <cite><a href="https://comp-think.github.io/">C
 21. [20/12/23, *the*] Greedy algorithms
     - book chapter: [PDF](https://comp-think.github.io/book/14.pdf), [Google Docs](https://comp-think.github.io/book/14)
     - Python: [line_wrap.py](https://comp-think.github.io/python/line_wrap.py)
+    <hr />
+22. [20/12/23, *wor*] Workshop
 
 ### Schedule
 
@@ -145,6 +147,7 @@ The official book of the course, <cite><a href="https://comp-think.github.io/">C
   <tr><td>13/12/23</td><td>09:00-11:00</td><td>Backtracking algorithms</td></tr>
   <tr><td>18/12/23</td><td>09:00-11:00</td><td>Organising information: graphs</td></tr>
   <tr><td>20/12/23</td><td>09:00-11:00</td><td>Greedy algorithms</td></tr>
+  <tr><td>20/12/23</td><td>13:00-16:00</td><td>Workshop</td></tr>
 </table>
 
 ## Links
