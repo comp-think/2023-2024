@@ -11,6 +11,7 @@ This space contains all the material related to the [Computational Thinking and 
     - [Table of content](#table-of-content)
     - [Book and notes](#book-and-notes)
     - [Material](#material)
+    - [Schedule](#schedule)
   - [Links](#links)
 
 ### Book and notes
