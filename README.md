@@ -118,7 +118,7 @@ The official book of the course, <cite><a href="https://comp-think.github.io/">C
     - book chapter: [PDF](https://comp-think.github.io/book/13.pdf), [Google Docs](https://comp-think.github.io/book/13)
     - Python: [graph_instructions.py](https://comp-think.github.io/python/graph_instructions.py), [multigraph_instructions.py](https://comp-think.github.io/python/multigraph_instructions.py), [graph_attribute_instructions.py](https://comp-think.github.io/python/graph_attribute_instructions.py)
     <hr />
-21. [20/12/23, *the*] Greedy algorithms
+21. [19/12/23, *the*] Greedy algorithms
     - book chapter: [PDF](https://comp-think.github.io/book/14.pdf), [Google Docs](https://comp-think.github.io/book/14)
     - Python: [line_wrap.py](https://comp-think.github.io/python/line_wrap.py)
     <hr />
@@ -149,7 +149,7 @@ The official book of the course, <cite><a href="https://comp-think.github.io/">C
   <tr><td>11/12/23</td><td>09:00-11:00</td><td>Organising information: trees</td></tr>
   <tr><td>13/12/23</td><td>09:00-11:00</td><td>Backtracking algorithms</td></tr>
   <tr><td>18/12/23</td><td>09:00-11:00</td><td>Organising information: graphs</td></tr>
-  <tr><td>20/12/23</td><td>09:00-11:00</td><td>Greedy algorithms</td></tr>
+  <tr><td>19/12/23</td><td>09:00-11:00</td><td>Greedy algorithms</td></tr>
   <tr><td>20/12/23</td><td>13:00-16:00</td><td>Workshop</td></tr>
 </table>
 
