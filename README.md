@@ -63,7 +63,7 @@ The official book of the course, <cite><a href="https://comp-think.github.io/">C
 8. [25/10/23, *lab*] 2nd Lesson
    - book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/02)
    <hr />
-9. [08/11/23, *the*] Brute-force algorithms
+9. [10/11/23, *the*] Brute-force algorithms
    - book chapter: [PDF](https://comp-think.github.io/book/06.pdf), [Google Docs](https://comp-think.github.io/book/06)
    - from [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
      - Chapter "How To Construct While Loops": all content
@@ -137,7 +137,7 @@ The official book of the course, <cite><a href="https://comp-think.github.io/">C
   <tr><td>20/10/23</td><td>12:00-14:00</td><td>Programming languages</td></tr>
   <tr><td>23/10/23</td><td>09:00-11:00</td><td>Organising information: ordered structures</td></tr>
   <tr><td>25/10/23</td><td>09:00-11:00</td><td>Laboratory: 2nd Lesson</td></tr>
-  <tr><td>08/11/23</td><td>09:00-11:00</td><td>Brute-force algorithms</td></tr>
+  <tr><td>10/11/23</td><td>09:00-11:00</td><td>Brute-force algorithms</td></tr>
   <tr><td>13/11/23</td><td>09:00-11:00</td><td>Laboratory: 3rd Lesson</td></tr>
   <tr><td>15/11/23</td><td>09:00-11:00</td><td>Organising information: unordered structures</td></tr>
   <tr><td>20/11/23</td><td>09:00-11:00</td><td>Laboratory: 4th Lesson</td></tr>
