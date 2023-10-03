@@ -60,7 +60,7 @@ The official book of the course, <cite><a href="https://comp-think.github.io/">C
      - Chapter "How To Use List Methods": introductory paragraphs and sections "list.append()", "list.extend()", "list.remove()"
    - Python: [define_functions.py](https://comp-think.github.io/python/define_functions.py), [list_instructions.py](https://comp-think.github.io/python/list_instructions.py), [stack_instructions.py](https://comp-think.github.io/python/stack_instructions.py), [queue_instructions.py](https://comp-think.github.io/python/queue_instructions.py)
    <hr />
-8. [25/10/23, *lab*] 2nd Lesson
+8. [24/10/23, *lab*] 2nd Lesson
    - book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/02)
    <hr />
 9. [10/11/23, *the*] Brute-force algorithms
@@ -136,7 +136,7 @@ The official book of the course, <cite><a href="https://comp-think.github.io/">C
   <tr><td>18/10/23</td><td>09:00-11:00</td><td>Computability</td></tr>
   <tr><td>20/10/23</td><td>12:00-14:00</td><td>Programming languages</td></tr>
   <tr><td>23/10/23</td><td>09:00-11:00</td><td>Organising information: ordered structures</td></tr>
-  <tr><td>25/10/23</td><td>09:00-11:00</td><td>Laboratory: 2nd Lesson</td></tr>
+  <tr><td>24/10/23</td><td>15:00-17:00</td><td>Laboratory: 2nd Lesson</td></tr>
   <tr><td>10/11/23</td><td>09:00-11:00</td><td>Brute-force algorithms</td></tr>
   <tr><td>13/11/23</td><td>09:00-11:00</td><td>Laboratory: 3rd Lesson</td></tr>
   <tr><td>15/11/23</td><td>09:00-11:00</td><td>Organising information: unordered structures</td></tr>
