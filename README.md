@@ -28,6 +28,8 @@ The official book of the course, <cite><a href="https://comp-think.github.io/">C
 
 1. [09/10/23, *the*] Introduction to the course
    - slides: [HTML](https://comp-think.github.io/2023-2024/slides/00%20-%20Course%20introduction.html)
+   - slides: [HTML](https://comp-think.github.io/2023-2024/slides/01%20-%20Introduction%20to%20Computational%20Thinking.html)
+   - exercises: [1](https://github.com/comp-think/2023-2024/issues/1), [2](https://github.com/comp-think/2023-2024/issues/2), [3](https://github.com/comp-think/2023-2024/issues/3)
    <hr />
 2. [11/10/23, *the*] Introduction to Computational Thinking
    - book chapter: [PDF](https://comp-think.github.io/book/01.pdf), [Google Docs](https://comp-think.github.io/book/01)
