@@ -88,10 +88,7 @@ The official book of the course, <cite><a href="https://comp-think.github.io/">C
      - Chapter "How To Use List Methods": section "list.insert()"
    - Python: [stack_from_list.py](https://comp-think.github.io/python/stack_from_list.py), [run_forever.py](https://comp-think.github.io/python/run_forever.py), [linear_search.py](https://comp-think.github.io/python/linear_search.py), [insertion_sort.py](https://comp-think.github.io/python/insertion_sort.py)
    <hr />
-10. [13/11/23, *lab*] 3rd Lesson
-    - book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/03)
-    <hr />
-11. [15/11/23, *the*] Organising information: unordered structures
+10. [13/11/23, *the*] Organising information: unordered structures
     - book chapter: [PDF](https://comp-think.github.io/book/07.pdf), [Google Docs](https://comp-think.github.io/book/07)
     - from [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
       - Chapter "Understanding Data Types": section "Dictionaries"
@@ -99,17 +96,20 @@ The official book of the course, <cite><a href="https://comp-think.github.io/">C
       - Chapter "How To Construct Classes and Define Objects": all content
     - Python: [set_instructions.py](https://comp-think.github.io/python/set_instructions.py), [dictionary_instructions.py](https://comp-think.github.io/python/dictionary_instructions.py)
     <hr />
-12. [20/11/23, *lab*] 4th Lesson
-    - book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/04)
-    <hr />
-13. [22/11/23, *the*] Recursion
+11. [15/11/23, *the*] Recursion
     - book chapter: [PDF](https://comp-think.github.io/book/08.pdf), [Google Docs](https://comp-think.github.io/book/08)
     - slides: [HTML](https://comp-think.github.io/2022-2023/slides/08%20-%20Recursion.html)
     - Python: [run_forever_recursive.py](https://comp-think.github.io/python/run_forever_recursive.py), [multiplication.py](https://comp-think.github.io/python/multiplication.py)
     <hr />
-15. [27/11/23, *the*] Divide and conquer algorithms
+10. [20/11/23, *lab*] 3rd Lesson
+    - book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/03)
+    <hr />
+15. [22/11/23, *the*] Divide and conquer algorithms
     - book chapter: [PDF](https://comp-think.github.io/book/09.pdf), [Google Docs](https://comp-think.github.io/book/09)
     - Python: [immutable_values.py](https://comp-think.github.io/python/immutable_values.py), [mutable_values.py](https://comp-think.github.io/python/mutable_values.py), [immutable_and_mutable_variables.py](https://comp-think.github.io/python/immutable_and_mutable_variables.py), [merge.py](https://comp-think.github.io/python/merge.py), [merge_sort.py](https://comp-think.github.io/python/merge_sort.py)
+    <hr />
+12. [27/11/23, *lab*] 4th Lesson
+    - book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/04)
     <hr />
 14. [29/11/23, *lab*] 5th Lesson
     - book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/05)
@@ -153,11 +153,11 @@ The official book of the course, <cite><a href="https://comp-think.github.io/">C
   <tr><td>23/10/23</td><td>09:00-11:00</td><td>Organising information: ordered structures</td></tr>
   <tr><td>08/11/23</td><td>09:00-11:00</td><td>Laboratory: 2nd Lesson</td></tr>
   <tr><td>10/11/23</td><td>09:00-11:00</td><td>Brute-force algorithms</td></tr>
-  <tr><td>13/11/23</td><td>09:00-11:00</td><td>Laboratory: 3rd Lesson</td></tr>
-  <tr><td>15/11/23</td><td>09:00-11:00</td><td>Organising information: unordered structures</td></tr>
-  <tr><td>20/11/23</td><td>09:00-11:00</td><td>Laboratory: 4th Lesson</td></tr>
-  <tr><td>22/11/23</td><td>09:00-11:00</td><td>Recursion</td></tr>
-  <tr><td>27/11/23</td><td>09:00-11:00</td><td>Divide and conquer algorithms</td></tr>
+  <tr><td>13/11/23</td><td>09:00-11:00</td><td>Organising information: unordered structures</td></tr>
+  <tr><td>15/11/23</td><td>09:00-11:00</td><td>Recursion</td></tr>
+  <tr><td>20/11/23</td><td>09:00-11:00</td><td>Laboratory: 3rd Lesson</td></tr>
+  <tr><td>22/11/23</td><td>09:00-11:00</td><td>Divide and conquer algorithms</td></tr>
+  <tr><td>27/11/23</td><td>09:00-11:00</td><td>Laboratory: 4th Lesson</td></tr>
   <tr><td>29/11/23</td><td>09:00-11:00</td><td>Laboratory: 5th Lesson</td></tr>
   <tr><td>04/12/23</td><td>09:00-11:00</td><td>Dynamic programming algorithms</td></tr>
   <tr><td>06/12/23</td><td>09:00-11:00</td><td>Laboratory: 6th Lesson</td></tr>
