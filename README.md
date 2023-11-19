@@ -101,14 +101,16 @@ The official book of the course, <cite><a href="https://comp-think.github.io/">C
       - Chapter "How To Construct Classes and Define Objects": all content
     - Python: [set_instructions.py](https://comp-think.github.io/python/set_instructions.py), [dictionary_instructions.py](https://comp-think.github.io/python/dictionary_instructions.py)
     - exercises: [1](https://github.com/comp-think/2023-2024/issues/21), [2](https://github.com/comp-think/2023-2024/issues/22), [3](https://github.com/comp-think/2023-2024/issues/23)
+    - solutions: [1](https://comp-think.github.io/keys/07/exercise-1), [2](https://comp-think.github.io/keys/07/exercise-2), [3](https://comp-think.github.io/keys/07/exercise-3)
     <hr />
 11. [17/11/23, *lab*] 3rd Lesson
     - book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/03)
     <hr />
 12. [20/11/23, *the*] Recursion
     - book chapter: [PDF](https://comp-think.github.io/book/08.pdf), [Google Docs](https://comp-think.github.io/book/08)
-    - slides: [HTML](https://comp-think.github.io/2022-2023/slides/08%20-%20Recursion.html)
+    - slides: [HTML](https://comp-think.github.io/2023-2024/slides/08%20-%20Recursion.html)
     - Python: [run_forever_recursive.py](https://comp-think.github.io/python/run_forever_recursive.py), [multiplication.py](https://comp-think.github.io/python/multiplication.py)
+    - exercises: [1](https://github.com/comp-think/2023-2024/issues/24), [2](https://github.com/comp-think/2023-2024/issues/25)
     <hr />
 13. [22/11/23, *the*] Divide and conquer algorithms
     - book chapter: [PDF](https://comp-think.github.io/book/09.pdf), [Google Docs](https://comp-think.github.io/book/09)
