@@ -174,9 +174,9 @@ The official book of the course, <cite><a href="https://comp-think.github.io/">C
   <tr><td>27/11/23</td><td>09:00-11:00</td><td>Laboratory: 4th Lesson</td></tr>
   <tr><td>29/11/23</td><td>09:00-11:00</td><td>Laboratory: 5th Lesson</td></tr>
   <tr><td>04/12/23</td><td>09:00-11:00</td><td>Dynamic programming algorithms</td></tr>
-  <tr><td>06/12/23</td><td>09:00-11:00</td><td>Laboratory: 6th Lesson</td></tr>
   <tr><td>11/12/23</td><td>09:00-11:00</td><td>Organising information: trees</td></tr>
   <tr><td>13/12/23</td><td>09:00-11:00</td><td>Backtracking algorithms</td></tr>
+  <tr><td>15/12/23</td><td>09:00-11:00</td><td>Laboratory: 6th Lesson</td></tr>
   <tr><td>18/12/23</td><td>09:00-11:00</td><td>Organising information: graphs</td></tr>
   <tr><td>19/12/23</td><td>09:00-11:00</td><td>Greedy algorithms</td></tr>
   <tr><td>20/12/23</td><td>13:00-16:00</td><td>Workshop</td></tr>
