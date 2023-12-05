@@ -132,16 +132,16 @@ The official book of the course, <cite><a href="https://comp-think.github.io/">C
     - Python: [fib_dc.py](https://comp-think.github.io/python/fib_dc.py), [fib_dp.py](https://comp-think.github.io/python/fib_dp.py)
     - exercises: [1](https://github.com/comp-think/2023-2024/issues/29), [2](https://github.com/comp-think/2023-2024/issues/30)
     <hr />
-17. [06/12/23, *lab*] 6th Lesson
-    - book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/06)
-    <hr />
-18. [11/12/23, *the*] Organising information: trees
+17. [11/12/23, *the*] Organising information: trees
     - book chapter: [PDF](https://comp-think.github.io/book/11.pdf), [Google Docs](https://comp-think.github.io/book/11)
     - Python: [tree_instructions.py](https://comp-think.github.io/python/tree_instructions.py)
     <hr />
-19. [13/12/23, *the*] Backtracking algorithms
+18. [13/12/23, *the*] Backtracking algorithms
     - book chapter: [PDF](https://comp-think.github.io/book/12.pdf), [Google Docs](https://comp-think.github.io/book/12)
     - Python: [peg_solitaire.py](https://comp-think.github.io/python/peg_solitaire.py)
+    <hr />
+19. [15/12/23, *lab*] 6th Lesson
+    - book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/06)
     <hr />
 20. [18/12/23, *the*] Organising information: graphs
     - book chapter: [PDF](https://comp-think.github.io/book/13.pdf), [Google Docs](https://comp-think.github.io/book/13)
