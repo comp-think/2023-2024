@@ -20,12 +20,12 @@ Myntrakor, dressed up as a player of the game Cracked Chess (very popular with t
 
 ## Rules
 
-1. Each labyrinth is a square (of length n per edge) which is initially filled with an arbitrary number of rooms and walls
+1. Each labyrinth is a square (of length *n* per edge) which is initially filled with an arbitrary number of rooms and walls
 1. The explorer, in every turn, try to move in a room (vertically or horizontally) to get closer to the exit, initially positioned in the start cell
 1. In case, in a turn, the explorer see that there is no path available to reach the exit, he uses the teleport that will bring him in a random room (the exit room could be accidentally selected!)
 1. The player (you!) control Urg and, thus, decides, in every turn, which wall should be swapped with which room (it is a mandatory move)
-1. The player cannot put a wall in any (vertical, horizontal, diagonal) adjacent room of the exit room and in the room currently occupied by the explorer
-The goal of the player is to avoid that the explorer reaches the exit within n * 2 moves
+1. The player cannot put a wall in the exit room, in any (vertical, horizontal, diagonal) adjacent room of the exit room, and in the room currently occupied by the explorer
+The goal of the player is to avoid that the explorer reaches the exit within *n* * 2 moves
 
 
 ## Function to implement
@@ -48,14 +48,14 @@ It returns a tuple of two items:
 Example of a list of tuples with X/Y coordinates representing the labyrinth:
 ```
 [
-        (0,0),            (0,3),(0,4),            (0,7),
-              (1,1),(1,2),      (1,4),      (1,6),(1,7),
-              (2,1),                  (2,5),(2,6),(2,7),
-                    (3,2),(3,3),(3,4),(3,5),(3,6),(3,7),
-        (4,0),(4,1),(4,2),(4,3),            (4,6),(4,7),
-        (5,0),      (5,2),
-        (6,0),(6,1),(6,2),      (6,4),(6,5),(6,6),
-        (7,0),(7,1),            (7,4)
+        (0,0),            (3,0),(4,0),            (7,0),
+              (1,1),(2,1),      (4,1),      (6,1),(7,1),
+              (1,2),                  (5,2),(6,2),(7,2),
+                    (2,3),(3,3),(4,3),(5,3),(6,3),(7,3),
+        (0,4),(1,4),(2,4),(3,4),            (6,4),(7,4),
+        (0,5),      (2,5),
+        (0,6),(1,6),(2,6),      (4,6),(5,6),(6,6),
+        (0,7),(1,7),            (4,7)
 ]
 ```
 
@@ -64,3 +64,26 @@ To test the implementation of `do_move_wall`, run:
 ```
 python run.py
 ```
+
+## Final results
+All the functions implemented by each group (that submitted a syntactical-correct Python code - i.e. "It runs, it runs!") were used to run the main Python script [*Moving Walls*](https://comp-think.github.io/2023-2024/workshop/00_run_moving_walls.py) with all the groups' implementation. It used [100 different labyrinths](https://github.com/comp-think/2023-2024/tree/main/docs/workshop/labyrinths) that have been generated randomly running [create_labyrinth.py](https://comp-think.github.io/2023-2024/workshop/support/create_labyrinth.py).
+
+The [final results](https://comp-think.github.io/2023-2024/workshop/00_results.txt) of this execution are summarised as follows:
+
+* Groups that returned always permitted moves: none of the participants
+* Groups that killed the explorer in at least 30 labyrinths: gremlins
+* Groups that killed the explorer in at least 70 labyrinths: none of the participants
+* Groups that won the greatest number of labyrinth: gremlins [with 56 victories]
+
+Concluding:
+* *gremlins* members receive 2 points
+
+In case one group want to test its code with the code used for the evaluation (i.e. [`00_run_moving_walls.py`](https://comp-think.github.io/2023-2024/workshop/00_run_moving_walls.py)), it is necessary:
+
+* to clone the current directory dedicated to the workshop;
+* to copy the file containing the group code in the same directory of `00_run_moving_walls.py`;
+* to import the group file as usual (i.e. `import <group_file_name_without_extension>`);
+* to substitute `lazyurg` with the name of the imported file in the list `all_players`;
+* to run the code with `python 00_run_moving_walls.py`.
+
+In case it is needed, the file [`lazyurg.py`](https://comp-think.github.io/2023-2024/workshop/lazyurg.py) provides a possible implementation of Urg, that acts substituting a room with a wall randomly selected.

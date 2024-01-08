@@ -1,0 +1,407 @@
+
+
+# Room 1
+WINNERS:
+	none of the participants
+
+# Room 2
+WINNERS:
+	none of the participants
+
+# Room 3
+WINNERS:
+	gremlins
+
+# Room 4
+WINNERS:
+	gremlins
+
+# Room 5
+WINNERS:
+	none of the participants
+
+# Room 6
+WINNERS:
+	gremlins
+
+# Room 7
+WINNERS:
+	none of the participants
+
+# Room 8
+WINNERS:
+	none of the participants
+
+# Room 9
+WINNERS:
+	none of the participants
+
+# Room 10
+WINNERS:
+	none of the participants
+
+# Room 11
+WINNERS:
+	gremlins
+
+# Room 12
+WINNERS:
+	gremlins
+
+# Room 13
+WINNERS:
+	none of the participants
+
+# Room 14
+WINNERS:
+	none of the participants
+
+# Room 15
+WINNERS:
+	gremlins
+
+# Room 16
+WINNERS:
+	gremlins
+
+# Room 17
+WINNERS:
+	gremlins
+
+# Room 18
+WINNERS:
+	none of the participants
+
+# Room 19
+WINNERS:
+	none of the participants
+
+# Room 20
+WINNERS:
+	gremlins
+
+# Room 21
+WINNERS:
+	gremlins
+
+# Room 22
+WINNERS:
+	none of the participants
+
+# Room 23
+WINNERS:
+	gremlins
+
+# Room 24
+WINNERS:
+	none of the participants
+
+# Room 25
+WINNERS:
+	gremlins
+
+# Room 26
+WINNERS:
+	none of the participants
+
+# Room 27
+WINNERS:
+	none of the participants
+
+# Room 28
+WINNERS:
+	gremlins
+
+# Room 29
+WINNERS:
+	gremlins
+
+# Room 30
+WINNERS:
+	gremlins
+
+# Room 31
+WINNERS:
+	none of the participants
+
+# Room 32
+WINNERS:
+	gremlins
+
+# Room 33
+WINNERS:
+	gremlins
+
+# Room 34
+WINNERS:
+	none of the participants
+
+# Room 35
+WINNERS:
+	gremlins
+
+# Room 36
+WINNERS:
+	gremlins
+
+# Room 37
+WINNERS:
+	none of the participants
+
+# Room 38
+WINNERS:
+	gremlins
+
+# Room 39
+WINNERS:
+	gremlins
+
+# Room 40
+WINNERS:
+	gremlins
+
+# Room 41
+WINNERS:
+	gremlins
+
+# Room 42
+WINNERS:
+	gremlins
+
+# Room 43
+WINNERS:
+	gremlins
+
+# Room 44
+WINNERS:
+	gremlins
+
+# Room 45
+WINNERS:
+	gremlins
+
+# Room 46
+WINNERS:
+	none of the participants
+
+# Room 47
+WINNERS:
+	gremlins
+
+# Room 48
+WINNERS:
+	none of the participants
+
+# Room 49
+WINNERS:
+	none of the participants
+
+# Room 50
+WINNERS:
+	gremlins
+
+# Room 51
+WINNERS:
+	none of the participants
+
+# Room 52
+WINNERS:
+	gremlins
+
+# Room 53
+WINNERS:
+	gremlins
+
+# Room 54
+WINNERS:
+	gremlins
+
+# Room 55
+WINNERS:
+	none of the participants
+
+# Room 56
+WINNERS:
+	none of the participants
+
+# Room 57
+WINNERS:
+	none of the participants
+
+# Room 58
+WINNERS:
+	gremlins
+
+# Room 59
+WINNERS:
+	gremlins
+
+# Room 60
+WINNERS:
+	none of the participants
+
+# Room 61
+WINNERS:
+	none of the participants
+
+# Room 62
+WINNERS:
+	gremlins
+
+# Room 63
+WINNERS:
+	gremlins
+
+# Room 64
+WINNERS:
+	none of the participants
+
+# Room 65
+WINNERS:
+	gremlins
+
+# Room 66
+WINNERS:
+	gremlins
+
+# Room 67
+WINNERS:
+	none of the participants
+
+# Room 68
+WINNERS:
+	none of the participants
+
+# Room 69
+WINNERS:
+	gremlins
+
+# Room 70
+WINNERS:
+	gremlins
+
+# Room 71
+WINNERS:
+	gremlins
+
+# Room 72
+WINNERS:
+	gremlins
+
+# Room 73
+WINNERS:
+	none of the participants
+
+# Room 74
+WINNERS:
+	none of the participants
+
+# Room 75
+WINNERS:
+	gremlins
+
+# Room 76
+WINNERS:
+	gremlins
+
+# Room 77
+WINNERS:
+	gremlins
+
+# Room 78
+WINNERS:
+	gremlins
+
+# Room 79
+WINNERS:
+	none of the participants
+
+# Room 80
+WINNERS:
+	gremlins
+
+# Room 81
+WINNERS:
+	gremlins
+
+# Room 82
+WINNERS:
+	gremlins
+
+# Room 83
+WINNERS:
+	gremlins
+
+# Room 84
+WINNERS:
+	none of the participants
+
+# Room 85
+WINNERS:
+	none of the participants
+
+# Room 86
+WINNERS:
+	none of the participants
+
+# Room 87
+WINNERS:
+	none of the participants
+
+# Room 88
+WINNERS:
+	gremlins
+
+# Room 89
+WINNERS:
+	none of the participants
+
+# Room 90
+WINNERS:
+	gremlins
+
+# Room 91
+WINNERS:
+	none of the participants
+
+# Room 92
+WINNERS:
+	none of the participants
+
+# Room 93
+WINNERS:
+	gremlins
+
+# Room 94
+WINNERS:
+	none of the participants
+
+# Room 95
+WINNERS:
+	gremlins
+
+# Room 96
+WINNERS:
+	gremlins
+
+# Room 97
+WINNERS:
+	none of the participants
+
+# Room 98
+WINNERS:
+	none of the participants
+
+# Room 99
+WINNERS:
+	gremlins
+
+# Room 100
+WINNERS:
+	none of the participants
+
+## FINAL RESULTS ##
+Avoiding non-permitted moves: none of the participants
+Killing the explorer in at least 30 labyrinths: gremlins
+Killing the explorer in at least 70 labyrinths: none of the participants
+Best winner: gremlins [with 56 victories]
