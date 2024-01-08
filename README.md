@@ -200,3 +200,4 @@ The official book of the course, <cite><a href="https://comp-think.github.io/">C
 
 - [Official book of the course](https://comp-think.github.io)
 - [Twitter profile of the course](https://twitter.com/UniboCompThink)
+- [Workshop](https://github.com/comp-think/2023-2024/tree/main/docs/workshop)
